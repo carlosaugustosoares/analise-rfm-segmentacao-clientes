@@ -82,25 +82,25 @@ A variável `TotalPrice` foi criada para calcular o valor total de cada venda.
 
 ### 1. Quantidade de clientes por segmento
 
-![Clientes por segmento](imagens/clientes_por_segmento.png)
+![Clientes por segmento](analise-rfm/imagens/clientes_por_segmento.png)
 
 O segmento Outros concentra a maior quantidade de clientes, representando 42,06% da base.
 
 ### 2. Faturamento por segmento
 
-![Faturamento por segmento](imagens/faturamento_por_segmento.png)
+![Faturamento por segmento](analise-rfm/imagens/faturamento_por_segmento.png)
 
 O segmento Campeões apresenta o maior faturamento, representando 33,76% do total analisado.
 
 ### 3. Recency x Frequency
 
-![Recency x Frequency](imagens/recency_frequency.png)
+![Recency x Frequency](analise-rfm/imagens/recency_frequency.png)
 
 Permite observar a relação entre o tempo desde a última compra e a frequência de compras, destacando clientes que podem precisar de ações de reativação.
 
 ### 4. Frequency x Monetary
 
-![Frequency x Monetary](imagens/frequency_monetary.png)
+![Frequency x Monetary](analise-rfm/imagens/frequency_monetary.png)
 
 Permite analisar a relação entre frequência de compras e valor total gasto por cliente.
 
